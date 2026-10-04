@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "Enterprise-grade remote controller for Ubaid Host with cryptographic pairing, live low-latency screen viewing, and real touch gesture dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
